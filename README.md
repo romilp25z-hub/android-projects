@@ -131,4 +131,4 @@ Demonstrates how Compose handles different screen sizes and navigation structure
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/android-projects.git
+   git clone https://github.com/romilp25z-hub/android-projects.git
