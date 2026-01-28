@@ -7,13 +7,16 @@ The projects are organized as **separate folders** within a single repository fo
 
 ## 📂 Project Structure
 android-projects/
-├── CupCake-App
-├── MarsPhotosApp
-├── Race-Tracker-App
-├── Unscramble-Android-App
-├── basic-android-kotlin-compose-training-dessert-release
-├── basic-android-kotlin-compose-training-lemonade
-├── basic-android-kotlin-compose-training-reply-app
+├── CupCake-App : https://github.com/romilp25z-hub/CupCake-App
+├── MarsPhotosApp : https://github.com/romilp25z-hub/MarsPhotosApp.git
+├── Race-Tracker-App : https://github.com/romilp25z-hub/Race-Tracker-App
+├── Unscramble-Android-App : https://github.com/romilp25z-hub/Unscramble-Android-App
+├── basic-android-kotlin-compose-training-dessert-release :
+|   https://github.com/ romilp25z-hubbasic-android-kotlin-compose-training-dessert-release
+├── basic-android-kotlin-compose-training-lemonade : 
+|   https://github.com/romilp25z-hub/basic-android-kotlin-compose-training-lemonade
+├── basic-android-kotlin-compose-training-reply-app : 
+|   https://github.com/romilp25z-hub/basic-android-kotlin-compose-training-reply-app
 └── README.md
 
 
